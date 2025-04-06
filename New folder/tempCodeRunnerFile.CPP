@@ -1,0 +1,1 @@
+ cout << setw(5) << id << setw(15) << name << setw(10) << quantity << setw(10) << price << endl;
